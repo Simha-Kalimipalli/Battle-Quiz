@@ -1,0 +1,5 @@
+question,num_answers,correct_answer,answer_text
+What is the capital of canada?,3,0,Ottawa#Toronto#Waterloo
+Windows is an Operating System.,2,0,True#False
+Coffee is  brown,2,0,True#False
+Milk is  brown,2,1,True#False

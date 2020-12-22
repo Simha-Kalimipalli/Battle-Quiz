@@ -1,0 +1,3 @@
+question,num_answers,correct_answer,answer_text
+"The word Pseudo means almost.",2,1,True#False
+Each item stored in an array is called an index.,2,1,True#False

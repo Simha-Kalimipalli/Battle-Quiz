@@ -1,0 +1,20 @@
+question,num_answers,correct_answer,answer_text
+What is one catagory where HHDs are better than SSDs, 4, 3,Speed#Power Usage#Price#Reliability
+In PCI slots you can plug in,4,1,"RAID cards#SSD, and graphics cards#USB sticks#a) and b)"
+Your Test objective should be to ,3,0, find as many software defects as possible#Find 80:-90% of software defects#None of the above
+SATA data cables are what then transfer data from the ODD or HDD to the motherboard,2,0,True#False
+Another name for a motherboard is,4,3,Logic circuit#Mother chip#Hard drive#system board
+An activity to be done within the project line that does impact workflow calculations?,2,0,A Milestone#A Task
+CPU stands for,4,0,Central Processing Unit#Computer Programmers Utilizer#Central Prepared Uplinks#Computer Processing Unit
+"A problem can be broken down into Input ,Processing, ________ , _______",4,1,Output/Save#Output/Storage#Open/Storage#Open/Save
+Which basic array operation is used to print all the elements one by one,4,0,Transverse#Insertion#Deletion#Search
+Is recursion when a function that can call itself to solve smaller subproblems. ,2,0,True#False
+"An array is a special variable, holding one value at a time",2,1,True#False
+Arrays can be concatenated using plus operator.,2,0,True#False
+The notation != is read as...,4,1,Must equal#not equal#equal#False
+"An """if statement""" is an example of ...",3,1,Sequencing#Iteration#Selection
+If the program has an exception or something bad happens it has a/an ...,3,0,runtime error#a semantic error or logic error#a syntax error
+Please check all that apply. A base case is ...,4,2,used in recursion#a recursive step#The value that the function returns#a function ran through only once
+Python expects an if statement to return a Boolean value,2,0,True#False
+What are some common functions that help us convert values.,4,3,"float( ), int( ), str( ), and type( )#int( ), str( ), and type( )#int( ), print( ), and type( )#float( ), int( ), and str( )"
+You can change values in a tuple,2,0,True#False

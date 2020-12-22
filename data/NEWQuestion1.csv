@@ -1,0 +1,13 @@
+question,num_answers,correct_answer,answer_text
+"Functions are often referred to as ""black boxes""",2,0,True#False
+The notation != is read as...,4,1,Must equal#not equal#equal#False
+The only Operators in Programming are + - and /.,2,1,True#False
+"An ""if statement"" is an example of ... ",3,1,Sequencing#Iteration#Selection 
+Modulus ignores the remainder when doing division and gives a decimal point value. ,2,1,True#False
+Python expects an if statement to return a Boolean value,2,0,True#False
+If the program has an exception or something bad happens it has a/an ...,3,0,runtime error#a semantic error or logic error#a syntax error
+Choose the best answer. A base case is ...,4,2,used in recursion#a recursive step#The terminating senerio of Recursion#a function ran through only once
+You can change values in a tuple ,2,0,True#False
+What are some common functions that help us convert values. ,4,3,"float( ), int( ), str( ), and type( )#int( ), str( ), and type( )#int( ), print( ), and type( )#float( ), int( ), and str( )"
+Functions cannot send back a value.,2,1,True#False
+The normal proper flow when creating a program is...,4,2,"Coding, flowchart, IPO, Pseudo Code#Pseudo Code, flowchart, IPO, Coding#IPO chart, pseudo code, flowchart, Coding#Flowchart, pseudo code, IPO chart, Coding"

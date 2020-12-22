@@ -1,0 +1,19 @@
+question,num_answers,correct_answer,answer_text
+"A problem can be broken down into Input ,Processing, ________ , _______",4,1,Output/Save#Output/Storage#Open/Storage#Open/Save
+Which basic array operation is used to print all the elements one by one,4,0,Transverse#Insertion#Deletion#Search
+"if array1 = array(""n"", [10,20,30,40,50]) Then print(array1 [2]) will give the result",4,2,10#20#30#40
+We can fetch an array element by using its element,2,1,True#False
+The word Pseudo means almost,2,1,True#False
+Each item stored in an array is called an index,2,1,True#False
+Identify the Pseudo terminology that describes the assignment step,4,2,"Input,Read#If-Else-Endif#Set,Store#Output,Write, Display"
+A trace table has a less used name which is...,4,1,Test chart#dry run#Variable Results#Run through
+Identify the Pseudo terminology that describes the Output step,4,3,"While Endwhile #Set, Store#For - Endfor#Output, Write, Display "
+Another word for Output in an IPO chart is...,4,3,input#read#get#display
+Is recursion when a function that can call itself to solve smaller subproblems. ,2,0,True#False
+"An array is a special variable, holding one value at a time",2,1,True#False
+Arrays can be concatenated using plus operator. ,2,0,True#False
+A dry run is a number sequence,2,1,True#False
+Recursive functions require more memory and resources than loops ,2,0,True#False
+Recursion can be controlled just like loops ,2,0,True#False
+Arrays are mutable which means that,4,1,"You, cannot change their elements# You can change their elements#They are similar to lists#They are similar to lists"
+A fractal is a drawing which has a self-similar structure ,2,0,True#False
