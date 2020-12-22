@@ -12,7 +12,7 @@ Is recursion when a function that can call itself to solve smaller subproblems. 
 "An array is a special variable, holding one value at a time",2,1,True#False
 Arrays can be concatenated using plus operator.,2,0,True#False
 The notation != is read as...,4,1,Must equal#not equal#equal#False
-"An """if statement""" is an example of ...",3,1,Sequencing#Iteration#Selection
+An """if statement""" is an example of ...,3,1,Sequencing#Iteration#Selection
 If the program has an exception or something bad happens it has a/an ...,3,0,runtime error#a semantic error or logic error#a syntax error
 Please check all that apply. A base case is ...,4,2,used in recursion#a recursive step#The value that the function returns#a function ran through only once
 Python expects an if statement to return a Boolean value,2,0,True#False
