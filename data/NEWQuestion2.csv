@@ -15,5 +15,5 @@ Arrays can be concatenated using plus operator. ,2,0,True#False
 A dry run is a number sequence,2,1,True#False
 Recursive functions require more memory and resources than loops ,2,0,True#False
 Recursion can be controlled just like loops ,2,0,True#False
-Arrays are mutable which means that,4,1,"You, cannot change their elements# You can change their elements#They are similar to lists#They are similar to lists"
+Arrays are mutable which means that,4,1,"You, cannot change their elements# You can change their elements#They are similar to lists#They aren't similar to lists"
 A fractal is a drawing which has a self-similar structure ,2,0,True#False
