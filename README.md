@@ -1,6 +1,6 @@
 # Battle-Quiz
 
-Welcome, This is the Battle-Quiz ganme, nicknamed as "Bataquiz".
+Welcome, This is the Battle-Quiz game, nicknamed as "Bataquiz".
 This is a roam / trivia style game. It is written in python, with the GUI using the pygame library, the input of the csv files using the pandas library and the randomization using the random library. 
 
 ![alt](https://github.com/Simha-Kalimipalli/Battle-Quiz/blob/main/images/logo.jpg "Bataquiz")
