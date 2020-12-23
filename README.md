@@ -17,3 +17,7 @@ Special thanks to Paul Kokhanov for helping create the spider movement classes.
 
 I hope you enjoy the game!
 Please tell me if there are bugs!
+
+## To run:
+- Please download all files, and make sure your interpreter/ libraries are set up, go in Trivia0611.py and press run 
+- To make an exe, please do the above step and also go to wrapper.py and run it
